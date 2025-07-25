@@ -27,3 +27,4 @@ Thumbs.db
 crash.log
 *.zip
 *.tfplan
+.idea
